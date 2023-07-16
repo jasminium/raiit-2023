@@ -162,4 +162,5 @@ cython_debug/
 # repo
 data/dailydialog
 data/MELD*
+data/*pkl
 emotiona*
